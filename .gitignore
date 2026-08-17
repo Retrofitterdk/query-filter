@@ -3,3 +3,10 @@ node_modules
 /build/
 /vendor/
 .DS_Store
+
+# Playwright / Playground test artefacts
+/.auth/
+/dist/
+/playwright-report/
+/test-results/
+
